@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rounakkumargupta/to-do-app/static/css/main.e75ba496.css",
+    "main.js": "/rounakkumargupta/to-do-app/static/js/main.a3e10f11.js",
+    "index.html": "/rounakkumargupta/to-do-app/index.html",
+    "main.e75ba496.css.map": "/rounakkumargupta/to-do-app/static/css/main.e75ba496.css.map",
+    "main.a3e10f11.js.map": "/rounakkumargupta/to-do-app/static/js/main.a3e10f11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e75ba496.css",
+    "static/js/main.a3e10f11.js"
+  ]
+}
